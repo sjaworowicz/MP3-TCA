@@ -1,6 +1,6 @@
-body {
-    background-image: url("/img/background-image.jpg");
-  }
+/* body {
+  background-image: url("img/hl2wallpaper07_16x9(1).jpg");
+} */
 
 .gidole-regular {
     font-family: "Gidole", sans-serif;
@@ -13,6 +13,6 @@ body {
     height: 288px;
 }
 
-.p{
+.p {
     color: black;
 }
